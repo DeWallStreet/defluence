@@ -1,0 +1,22 @@
+{
+  "name": "defluence-server",
+  "version": "1.0.0",
+  "description": "This server includes all the backend logic and processes for the product defluence",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeWallStreet/defluence.git"
+  },
+  "keywords": [
+    "defluence"
+  ],
+  "author": "SAM RAJ . A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeWallStreet/defluence/issues"
+  },
+  "homepage": "https://github.com/DeWallStreet/defluence#readme"
+}
