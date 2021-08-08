@@ -1,2 +1,2 @@
 # defluence
-Defluence, is the decentralized social protocol established as an aggregator model for interconnecting decentralized influencers and early stage products for automated marketing and product reach.
+Defluence, is the decentralized social protocol established as an aggregator platform for interconnecting decentralized influencers and product teams for automating marketing and product awareness campaigns for their newly launching products, with smart contracts.
